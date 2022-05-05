@@ -22,4 +22,6 @@ jobs:
           path-to-signatures: 'cla-bot/v1/cla.json'
           path-to-document: 'https://github.com/contributor-assistant/github-action/blob/master/SAPCLA.md' # e.g. a CLA or a DCO document
           branch: metadata
+          remote-organization-name: pgmpablo157321
+          remote-repository-name: test_repo
           
